@@ -1,0 +1,24 @@
+body {
+    background-color: #FFCEFE;
+}
+hr {
+    background-color: #FFCEFE;
+    border-style: none;
+    border-top-style: dashed;
+    border-color: #AAE3E2;
+    border-width: 5px;
+    width: 5%;
+}
+img{
+    height: 230px;
+    width: auto;
+}
+h1{
+    color: #645CBB;
+}
+h3{
+    color: #A084DC;
+}
+h1:hover{
+    color: #B99B6B;
+}
